@@ -197,7 +197,7 @@ export async function POST(req) {
             fontSize: Math.round(45  * SX), 
             bubbleWidth: Math.round(746 * SX),
             showReaction: true,
-            emojiSize: Math.round(90  * SX),
+            emojiSize: Math.round(120  * SX),
             emojiSpacing: Math.round(110 * SX),
             emojiXOffset: Math.round(15  * SX),
             emojiYOffset: -15,
